@@ -4,7 +4,18 @@ def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA"
     puts "I LOVE YOU TOO PUMPKIN"
     
-  elsif phrase ==  
+  elsif phrase == "Hi Nana, how are you?".upcase
+    puts "HUH?! SPEAK UP, SONNY!"
+ 
+  elsif phrase == "Hi!".upcase
+    puts "HUH?! SPEAK UP, SONNY"
+ 
+  elsif phrase = "WHAT DID YOU DO TODAY?"
+    puts "NO, NOT SINCE 1938!"
+ 
+  else phrase = "WHAT?"
+    puts "NO, NOT SINCE 1938!"
+ 
   end
 end
 
