@@ -9,7 +9,7 @@ def speak_to_grandma(phrase)
     puts "HUH?! SPEAK UP, SONNY"
 end
 
-speak_to_grandma(HI)
+speak_to_grandma("I LOVE YOU")
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
